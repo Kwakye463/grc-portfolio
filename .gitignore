@@ -1,1 +1,6 @@
+# Office lock files
+~$*
 
+# Mac and Windows system files
+.DS_Store
+Thumbs.db
